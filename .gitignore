@@ -1,0 +1,22 @@
+# Compiled binaries
+banking
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Data files generated at runtime
+customers.txt
+accounts.txt
+transactions.txt
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
